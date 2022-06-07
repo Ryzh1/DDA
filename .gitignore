@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Temp/FSTimeGet-1ce0a1d0fb63e5d4ca8dca24243f4b7c
+/Temp/UnityLockfile
+/Temp/workerlic
